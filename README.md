@@ -29,7 +29,7 @@ Collection of handy online tools for developers, with great UX.
 ![Does not support armv7 Architecture][armv7-shield-yes]
 ![Does not support i386 Architecture][i386-shield-no]
 
-Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors,
+Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 
 
 

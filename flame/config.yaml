@@ -1,0 +1,11 @@
+name: "it-tools"
+version: "multiarch2.3.1"
+image: pawelmalak/flame
+slug: flame
+description: "Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors"
+arch:
+  - aarch64
+  - amd64
+  - armv7
+ports:
+  5005/tcp: 5005
