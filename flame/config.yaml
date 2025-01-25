@@ -9,7 +9,7 @@ arch:
   - armv7
 ports:
   5005/tcp: 5005
-environment:
+options:
   - PASSWORD: flame_password
 map:
   - type: data
