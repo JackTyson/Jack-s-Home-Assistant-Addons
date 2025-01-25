@@ -10,8 +10,7 @@ arch:
 ports:
   5005/tcp: 5005
 options:
-  - PASSWORD: flame_password
+  - PASSWORD: "flame_password"
 map:
-  - type: data
-    read_only: False
+  - type: addon_config:rw
     path: /app/data
