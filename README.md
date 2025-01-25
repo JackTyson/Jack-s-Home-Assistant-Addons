@@ -12,4 +12,24 @@ Shoutout to After Hours Coding for their [fantastic guide](https://afterhourscod
 Instructions here
 ## Contents
 ### [it-tools by CorentinTh](https://github.com/CorentinTh/it-tools)
+![Supports aarch64 Architecture][aarch64-shield-yes]
+![Supports amd64 Architecture][amd64-shield-yes]
+![Does not support armhf Architecture][armhf-shield-no]
+![Does not support armv7 Architecture][armv7-shield-no]
+![Does not support i386 Architecture][i386-shield-no]
 Collection of handy online tools for developers, with great UX.
+
+
+
+
+[//]: # (Badges)
+[aarch64-shield-yes]: https://img.shields.io/badge/aarch64-yes-green.svg
+[amd64-shield-yes]: https://img.shields.io/badge/amd64-yes-green.svg
+[armhf-shield-yes]: https://img.shields.io/badge/armhf-yes-green.svg
+[armv7-shield-yes]: https://img.shields.io/badge/armv7-yes-green.svg
+[i386-shield-yes]: https://img.shields.io/badge/i386-yes-green.svg
+[aarch64-shield-no]: https://img.shields.io/badge/aarch64-no-red.svg
+[amd64-shield-no]: https://img.shields.io/badge/amd64-no-red.svg
+[armhf-shield-no]: https://img.shields.io/badge/armhf-no-red.svg
+[armv7-shield-no]: https://img.shields.io/badge/armv7-no-red.svg
+[i386-shield-no]: https://img.shields.io/badge/i386-no-red.svg
