@@ -9,6 +9,3 @@ arch:
   - armv7
 ports:
   5005/tcp: 5005
-map:
-  - type: addon_config:rw
-    path: /app/data
