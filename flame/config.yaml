@@ -10,4 +10,4 @@ arch:
 ports:
   5005/tcp: 5005
 environment:
-  - PASSWORD: "changeme"
+  - PASSWORD=changeme
