@@ -2,6 +2,8 @@
 A small curation of addons for Home Assistant that I felt were missing from the main line up.
 
 ## Acknowledgements and Information
+[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FJackTyson%2FJack-s-Home-Assistant-Addons)
+
 All addons are based on their respective docker images that are the property of their respective author(s). If you find these addons useful, **please consider contributing and/or donating to the author(s) of those projects.**
 
 Shoutout to After Hours Coding for their [fantastic guide](https://afterhourscoding.wordpress.com/2023/01/21/making-your-own-home-assistant-add-on/) on creating Home Assistant addons!
