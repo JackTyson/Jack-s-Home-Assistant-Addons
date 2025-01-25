@@ -1,4 +1,4 @@
-name: "it-tools"
+name: "flame"
 version: "multiarch2.3.1"
 image: pawelmalak/flame
 slug: flame
